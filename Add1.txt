@@ -1,2 +1,6 @@
 Add line 1
 Them dong tiep
+Check to staging area
+Go to web
+
+Next modification
